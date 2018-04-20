@@ -1,0 +1,33 @@
+body{
+	background-color: white;
+}
+.caja{
+    width: 600px;
+    height: 400px;
+    padding: 100px 50px;
+    
+}
+.usuario{
+    color: black;
+}
+.password{
+color:black;
+}
+
+.ingrese{
+color: black;
+}
+#Borrar{
+color: black;
+height: 30px;
+width: 80px;
+
+}
+.boton{
+color: black;
+height: 30px;
+width: 80px;
+
+}
+
+    

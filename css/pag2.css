@@ -1,0 +1,44 @@
+body {
+  background: gray;
+  padding-left: 240px;
+  padding-top: 30px;
+  padding-bottom: 30px; 
+}
+  .div {
+    width: 900px;
+    height: 580px;
+    background-color: white;
+    padding-left: 19px;
+    padding-top: 10px;
+    padding-right: 10px; 
+  }
+    body div header {
+      background: black;
+      width: 890px;
+      height: 100px; }
+    body div nav {
+      background: black;
+      width: 860px;
+      height: 5px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 10px; }
+      body div nav button {
+        width: 212px;
+        height: 30px; }
+      body div nav button: {
+        background: white; }
+    body div main {
+      width: 850px;
+      height: 290px;
+      background: white;
+      padding-left: 40px;
+      padding-top: 40px; }
+      body div main iframe {
+        width: 800px;
+        height: 350px; }
+
+        .topp{
+          background-color: white;
+          padding: auto;
+        }
